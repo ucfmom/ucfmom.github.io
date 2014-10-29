@@ -1,4 +1,3 @@
-<!--
 ---
 title : About the Author
 date : 
@@ -7,7 +6,6 @@ category :
 tagline : 
 tags : 
 ---
--->
 
 ![Student. Thinker. Learner. Leader. **Human.**](/assets/human-wordle.jpg "Human wordle.")
 
