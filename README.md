@@ -1,9 +1,4 @@
-This is <a href="http://www.eyer.us">www.eyer.us</a>, the personal website of <a href="http://www.eyer.us/about/#contact-information">Chad Michael Eyer</a>.
-
-### License and Disclaimer
-
-* All original content posted here (yours and mine) is licensed <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us">CC-BY</a> unless otherwise specified.
-* I don't speak for Apple, Inc., or The University of West Florida.
+This is the personal website of ucfmom.
 
 ### Technical Notes
 
