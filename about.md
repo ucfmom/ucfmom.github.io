@@ -49,7 +49,7 @@ A Florida native, Chad lives in Orlando with his family and cat, Milton.
 [sms]:			sms:+13214223428						"text message"
 [FaceTime]:		facetime:+13214223428					"FaceTime"
 [fax]:			fax:+18153013995						"facsimilie"
-[www.eyer.us]:  http://www.eyer.us						"iterations"
+[www.eyer.us]:  http://www.eyer.us						"www.eyer.us"
 [Facebook]:		http://www.facebook.com/chadmichaeleyer	"Facebook"
 [GitHub]:		https://github.com/chadmichaeleyer  	"GitHub"  
 [LinkedIn]:		http://linkedin.com/in/chadmichaeleyer	"LinkedIn"
