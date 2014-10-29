@@ -36,8 +36,8 @@ a.nav-link i{
 }
 a.nav-link:hover { color: #777 }
 
-#bio {
-  font-family: "Courier New", Courier, monospace;
+#tagline {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
   margin: 0 auto;
   margin-bottom: 10px;
@@ -140,7 +140,12 @@ article.home h4 a:hover {
 
 footer {
   padding-top: 15px;
-  font-family: 'Ubuntu';
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 11px;
+}
+
+footer img {
+	padding-right: 5px;
 }
 
 /* nav-vertical-tabs component */
@@ -178,3 +183,14 @@ footer {
     left: inherit;
     right: 0px;
 }
+
+/* User-defined styles */
+
+.content img  {
+  max-width:90% !important;
+  height:auto;
+  position: relative;
+  margin:0 auto; 
+  display:block;
+}
+
