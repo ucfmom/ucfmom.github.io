@@ -1,3 +1,4 @@
+<!--
 ---
 title : About the Author
 date : 
@@ -6,6 +7,7 @@ category :
 tagline : 
 tags : 
 ---
+-->
 
 ![Student. Thinker. Learner. Leader. **Human.**](/assets/human-wordle.jpg "Human wordle.")
 
@@ -24,7 +26,7 @@ A Florida native, Chad lives in Orlando with his family and cat, Milton.
 * [Download][vcf] contact information to your address book (vCard)
 
 | Name                          | Chad Michael Eyer                                    |
-| ====                          | =================                                    |
+| ----                          | -----------------                                    |
 | Email                         | <eyer@eyer.us>                                       |
 | Telephone                     | +1 321-422-3428 ([tel][]) ([sms][]) ([FaceTime][])   |
 | Facsimilie                    | +1 815-301-3995 ([fax][])                            |
