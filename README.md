@@ -1,37 +1,13 @@
-# Jekyll-Bootstrap-3
+This is <a href="http://www.eyer.us">www.eyer.us</a>, the personal website of <a href="http://www.eyer.us/about/#contact-information">Chad Michael Eyer</a>.
 
-Easily publish Bootstrap 3 powered Jekyll sites.  
-Fork of the well known jekyll-bootstrap (v0.3.0). Original project is [here](https://github.com/plusjade/jekyll-bootstrap).  
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.  
+### License and Disclaimer
 
-## Usage
+* All original content posted here (yours and mine) is licensed <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us">CC-BY</a> unless otherwise specified.
+* I don't speak for Apple, Inc., or The University of West Florida.
 
-### 1. Create a Repo
-- Go to <https://github.com> and create a new repository named *USERNAME.github.com*  
+### Technical Notes
 
-### 2. Install Jekyll-Bootstrap-3  
-<pre>
-  <code>
-    $ git clone https://github.com/dbtek/jekyll-bootstrap-3 USERNAME.github.com
-    $ cd USERNAME.github.com
-    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
-    $ git push origin master  
-  </code>
-</pre>  
-### 3. Enjoy !
-- After giving 10 mins to GitHub of course.  
-
-For original project's usage and documentation please see: <http://jekyllbootstrap.com>  
-
-
-### Themes
-
-Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gallery](http://jekyllbootstrap3.tk/preview/).
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+* Written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> with <a href="http://macromates.com">TextMate</a>.
+* Built by <a href="http://jekyllrb.com/news/">Jekyll</a>, with help from <a href="http://jekyllbootstrap3.tk" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap-3</a> and <a href="https://github.com/jekyll-bootstrap-3/dbyll">dbyll</a>.
+* Hosting provided by <a href="http://www.github.com">GitHub</a> and <a href="http://freedns.afraid.org">FreeDNS</a>.
+* Proudly <a href="http://store.apple.com">Made on a Mac</a>.
