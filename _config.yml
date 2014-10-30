@@ -94,8 +94,8 @@ JB :
     intensedebate :
       account : 123abc
     facebook :
-      appid : 123
-      num_posts: 5
+      appid :1550187018531819
+      num_posts: 10
       width: 580
       colorscheme: light
 
