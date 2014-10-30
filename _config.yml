@@ -85,7 +85,7 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments : 
+  comments : true
     provider : facebook
     disqus :
       short_name : 
@@ -94,7 +94,7 @@ JB :
     intensedebate :
       account : 123abc
     facebook :
-      appid :1550187018531819
+      appid : 1550187018531819
       num_posts: 10
       width: 580
       colorscheme: light
